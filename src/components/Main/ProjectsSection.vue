@@ -16,7 +16,7 @@
           Sito di Trasporti
           <template v-slot:image>
             <img
-              src="../assets/img/Trasporti.png"
+              src="../../assets/img/Trasporti.png"
               class="card-img-top"
               alt="Immagine Sito di Trasporti"
             />
@@ -34,7 +34,7 @@
           Boolflix
           <template v-slot:image>
             <img
-              src="../assets/img/Netflix.png"
+              src="../../assets/img/Netflix.png"
               class="card-img-top"
               alt="Immagine Progetto Boolflix"
             />
@@ -51,7 +51,7 @@
           Dropbox
           <template v-slot:image>
             <img
-              src="../assets/img/Dropbox.png"
+              src="../../assets/img/Dropbox.png"
               class="card-img-top"
               alt="Immagine Progetto Dropbox"
             />
@@ -69,7 +69,7 @@
           Spotify
           <template v-slot:image>
             <img
-              src="../assets/img/Spoty.png"
+              src="../../assets/img/Spoty.png"
               class="card-img-top"
               alt="Immagine Progetto Spotify"
             />
@@ -85,7 +85,7 @@
         >
           <template v-slot:image>
             <img
-              src="../assets/img/Whatsapp.png"
+              src="../../assets/img/Whatsapp.png"
               class="card-img-top"
               alt="Immagine Progetto WhatsApp"
             />
@@ -103,7 +103,7 @@
           Discord
           <template v-slot:image>
             <img
-              src="../assets/img/Discord.png"
+              src="../../assets/img/Discord.png"
               class="card-img-top"
               alt="Immagine Progetto Discord"
             />
@@ -120,7 +120,7 @@
           Bootstrap Dashboard
           <template v-slot:image>
             <img
-              src="../assets/img/dashboard.png"
+              src="../../assets/img/dashboard.png"
               class="card-img-top"
               alt="Immagine Progetto Bootstrap Dashboard"
             />
@@ -137,7 +137,7 @@
           Campo Minato
           <template v-slot:image>
             <img
-              src="../assets/img/campo-minato.png"
+              src="../../assets/img/campo-minato.png"
               class="card-img-top"
               alt="Immagine Progetto Campo Minato"
             />
@@ -195,7 +195,7 @@
         <hr class="d-lg-none mb-4" />
         <div class="d-flex justify-content-center">
           <video
-            src="../assets/videos/2023-03-17-12-14-49.mp4"
+            src="../../assets/videos/2023-03-17-12-14-49.mp4"
             class="w-100 rounded-4"
             controls
           >

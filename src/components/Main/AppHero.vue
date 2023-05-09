@@ -1,7 +1,7 @@
 <template>
   <section id="hero" class="pb-lg-0 pb-3 pt-2 pt-lg-4">
     <div class="container d-xl-flex align-items-start d-none">
-      <img src="../assets/img/Riccardo-2.png" alt="Riccardo" />
+      <img src="../../assets/img/Riccardo.png" alt="Riccardo" />
       <div class="col-right p-4 rounded-4 mb-5">
         <h1 class="fw-bold mb-4">
           Ciao, mi chiamo Riccardo e sono un Full Stack Web Developer Jr
@@ -22,7 +22,7 @@
         </h1>
         <div class="d-md-flex align-items-center">
           <img
-            src="../assets/img/Riccardo-2.png"
+            src="../../assets/img/Riccardo-2.png"
             alt="Riccardo"
             class="ms-image"
           />
