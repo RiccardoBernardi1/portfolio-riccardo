@@ -89,7 +89,7 @@
 </template>
 
 <script>
-import CV from "../../assets/pdf/Riccardo_Bernardi_CV.pdf";
+import CV from "../../assets/pdf/Riccardo_Bernardi.pdf";
 export default {
   methods: {
     download() {
